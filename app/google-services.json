@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999582987639",
+    "firebase_url": "https://yorket-c5c6c.firebaseio.com",
+    "project_id": "yorket-c5c6c",
+    "storage_bucket": "yorket-c5c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999582987639:android:e029b25eba892a2354dd72",
+        "android_client_info": {
+          "package_name": "com.example.yorket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999582987639-di4ecekcjt888q59fj0hvri1isk782dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yorket",
+            "certificate_hash": "7a41f175f58a2b3c140b08aa4976a9c374b41805"
+          }
+        },
+        {
+          "client_id": "999582987639-okbbc1q9aubhhojue2b9ojafsug15tb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7x2VP0N06CyvPrvwL5mhZToStNB59gDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999582987639-okbbc1q9aubhhojue2b9ojafsug15tb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
