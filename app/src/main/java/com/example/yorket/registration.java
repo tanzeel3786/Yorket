@@ -87,11 +87,11 @@ public class registration extends AppCompatActivity implements View.OnClickListe
                                             .addOnCompleteListener(new OnCompleteListener<Void>() {
                                                 @Override
                                                 public void onComplete(@NonNull Task<Void> task1) {
-                                                    if (task1.isSuccessful()) {
-                                                        Toast.makeText(registration.this,"set dispplay name", Toast.LENGTH_LONG).show();
-                                                    }
-                                                    else
-                                                        Toast.makeText(registration.this, task1.getException()+"", Toast.LENGTH_LONG).show();
+                                                    //if (task1.isSuccessful()) {
+                                                      //  Toast.makeText(registration.this,"set dispplay name", Toast.LENGTH_LONG).show();
+                                                    //}
+                                                   // else
+                                                     //   Toast.makeText(registration.this, task1.getException()+"", Toast.LENGTH_LONG).show();
                                                 }
                                             });
                                     HashMap<String,String> dataMap=new HashMap<>();
